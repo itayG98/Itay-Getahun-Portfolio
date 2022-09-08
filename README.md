@@ -4,5 +4,5 @@ Portfolio page in proggress
 link:
  <a href="https://itayg98.github.io/Itay-Getahun-Portfolio/">Visit My website!</a> 
 <div align="center">
-<img  src="https://user-images.githubusercontent.com/91791115/189081314-b5eeb405-d2a0-432d-b120-e99465a0865a.jpg"/>
+<img  src="https://user-images.githubusercontent.com/91791115/189167955-131f4728-7142-43ba-930e-f2b652c032dd.jpg"/>
 </div>
